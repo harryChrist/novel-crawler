@@ -1,3 +1,6 @@
+# Cache local (sqlite)
+data/
+
 # Logs
 logs
 *.log
